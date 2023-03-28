@@ -1,0 +1,893 @@
+server is running....
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000009',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+server is running....
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+server is running....
+server is running....
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000009',
+  sum_cook: '0',
+  sum_drink: '0',
+  statusID: 2,
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200001',
+  bill_no: '202300000009',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{ cookID: '20230000004', cookStatus: '2' }
+{ cookID: '20230000005', cookStatus: '2' }
+{ cookID: '20230000006', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000001',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000002',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{ cookID: '20230000001', cookStatus: '2' }
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000004',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000006',
+  sum_cook: '1',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '0',
+  sum_drink: '0',
+  statusID: 2,
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{ cookID: '20230000001', cookStatus: '2' }
+{ cookID: '20230000002', cookStatus: '2' }
+{ cookID: '20230000001', cookStatus: '3' }
+client socket connected
+{ cookID: '20230000002', cookStatus: '3' }
+{ bill_no: '202300000007' }
+{ bill_no: '202300000007' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000010',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: 2,
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200001',
+  bill_no: '202300000010',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+server is running....
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000006',
+  sum_cook: '2',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000006',
+  sum_cook: '0',
+  sum_drink: '2',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{
+  table_no: '202200001',
+  bill_no: '202300000006',
+  sum_cook: '0',
+  sum_drink: '0',
+  statusID: 2,
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200001',
+  bill_no: '202300000006',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{ cookID: '20230000003', cookStatus: '2' }
+{ cookID: '20230000004', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200001',
+  bill_no: '202300000006',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{ cookID: '20230000005', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{ cookID: '20230000002', cookStatus: '2' }
+{ cookID: '20230000001', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '2',
+  sum_drink: '0',
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '2',
+  sum_drink: '0',
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '2',
+  sum_drink: '0',
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '2',
+  sum_drink: '0',
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200002',
+  bill_no: '202300000007',
+  sum_cook: '2',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+{ cookID: '20230000006', cookStatus: '2' }
+{ cookID: '20230000007', cookStatus: '2' }
+{ cookID: '20230000006', cookStatus: '3' }
+{ cookID: '20230000007', cookStatus: '3' }
+{ bill_no: '202300000007' }
+{ bill_no: '202300000007' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200003',
+  bill_no: '202300000008',
+  sum_cook: '0',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200010',
+  bill_no: '202300000010',
+  sum_cook: '2',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+server is running....
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{ cookID: '20230000006', cookStatus: '2' }
+{ cookID: '20230000007', cookStatus: '2' }
+{ cookID: '20230000009', cookStatus: '2' }
+{ cookID: '20230000013', cookStatus: '2' }
+{ cookID: '20230000014', cookStatus: '2' }
+{ cookID: '20230000015', cookStatus: '2' }
+{ cookID: '20230000016', cookStatus: '2' }
+{ cookID: '20230000031', cookStatus: '2' }
+{ cookID: '20230000032', cookStatus: '2' }
+{ cookID: '20230000033', cookStatus: '2' }
+{ cookID: '20230000034', cookStatus: '2' }
+{ cookID: '20230000036', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000009',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{ cookID: '20230000010', cookStatus: '2' }
+{ cookID: '20230000037', cookStatus: '2' }
+{ cookID: '20230000039', cookStatus: '2' }
+{ cookID: '20230000040', cookStatus: '2' }
+{ cookID: '20230000041', cookStatus: '2' }
+{ cookID: '20230000042', cookStatus: '2' }
+{ cookID: '20230000043', cookStatus: '2' }
+client socket connected
+{ cookID: '20230000011', cookStatus: '2' }
+{ cookID: '20230000012', cookStatus: '2' }
+{ cookID: '20230000017', cookStatus: '2' }
+{ cookID: '20230000035', cookStatus: '2' }
+{ cookID: '20230000038', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000009',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200002',
+  bill_no: '202300000009',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200006',
+  bill_no: '202300000022',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+{
+  table_no: '202200007',
+  bill_no: '202300000021',
+  sum_cook: '0',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+{
+  table_no: '202200007',
+  bill_no: '202300000021',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+{ cookID: '20230000044', cookStatus: '2' }
+{ cookID: '20230000045', cookStatus: '2' }
+{ cookID: '20230000046', cookStatus: '2' }
+{ cookID: '20230000047', cookStatus: '2' }
+{ cookID: '20230000048', cookStatus: '2' }
+{ cookID: '20230000049', cookStatus: '2' }
+{ cookID: '20230000050', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200007',
+  bill_no: '202300000021',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{ cookID: '20230000051', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200017',
+  bill_no: '202300000017',
+  sum_cook: '1',
+  sum_drink: '1',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+{
+  table_no: '202200017',
+  bill_no: '202300000017',
+  sum_cook: '2',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200013',
+  bill_no: '202300000016',
+  sum_cook: '3',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+client socket connected
+client socket connected
+{ cookID: '20230000018', cookStatus: '2' }
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200013',
+  bill_no: '202300000016',
+  sum_cook: '0',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+client socket connected
+{ cookID: '20230000019', cookStatus: '2' }
+{ cookID: '20230000001', cookStatus: '3' }
+{ cookID: '20230000002', cookStatus: '3' }
+{ cookID: '20230000006', cookStatus: '3' }
+{ cookID: '20230000007', cookStatus: '3' }
+{ cookID: '20230000009', cookStatus: '3' }
+{ cookID: '20230000013', cookStatus: '3' }
+{ cookID: '20230000014', cookStatus: '3' }
+{ cookID: '20230000015', cookStatus: '3' }
+{ cookID: '20230000016', cookStatus: '3' }
+{ cookID: '20230000018', cookStatus: '3' }
+{ cookID: '20230000019', cookStatus: '3' }
+{ cookID: '20230000031', cookStatus: '3' }
+{ cookID: '20230000032', cookStatus: '3' }
+{ cookID: '20230000033', cookStatus: '3' }
+{ cookID: '20230000034', cookStatus: '3' }
+{ cookID: '20230000036', cookStatus: '3' }
+{ cookID: '20230000037', cookStatus: '3' }
+{ cookID: '20230000039', cookStatus: '3' }
+{ cookID: '20230000040', cookStatus: '3' }
+{ cookID: '20230000041', cookStatus: '3' }
+{ cookID: '20230000042', cookStatus: '3' }
+{ cookID: '20230000043', cookStatus: '3' }
+{ cookID: '20230000044', cookStatus: '3' }
+{ cookID: '20230000045', cookStatus: '3' }
+{ cookID: '20230000046', cookStatus: '3' }
+{ cookID: '20230000047', cookStatus: '3' }
+{ cookID: '20230000048', cookStatus: '3' }
+{ cookID: '20230000049', cookStatus: '3' }
+{ cookID: '20230000050', cookStatus: '3' }
+{ cookID: '20230000051', cookStatus: '3' }
+client socket connected
+{ cookID: '20230000020', cookStatus: '2' }
+{ cookID: '20230000052', cookStatus: '2' }
+{ cookID: '20230000054', cookStatus: '2' }
+{ cookID: '20230000055', cookStatus: '2' }
+{ cookID: '20230000053', cookStatus: '2' }
+{ cookID: '20230000003', cookStatus: '3' }
+{ cookID: '20230000004', cookStatus: '3' }
+{ cookID: '20230000005', cookStatus: '3' }
+{ cookID: '20230000010', cookStatus: '3' }
+{ cookID: '20230000011', cookStatus: '3' }
+{ cookID: '20230000012', cookStatus: '3' }
+{ cookID: '20230000017', cookStatus: '3' }
+{ cookID: '20230000035', cookStatus: '3' }
+{ cookID: '20230000038', cookStatus: '3' }
+{ cookID: '20230000053', cookStatus: '3' }
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200013',
+  bill_no: '202300000016',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: '1',
+  status_submit_edit_qty: '1'
+}
+{
+  table_no: '202200013',
+  bill_no: '202300000016',
+  sum_cook: '1',
+  sum_drink: '0',
+  status_submit_edit_qty: '2'
+}
+{
+  table_no: '202200013',
+  bill_no: '202300000016',
+  sum_cook: '1',
+  sum_drink: '0',
+  status_submit_edit_qty: '2'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+{
+  table_no: '202200013',
+  bill_no: '202300000016',
+  sum_cook: '1',
+  sum_drink: '0',
+  statusID: 2,
+  status_submit_edit_qty: '2'
+}
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
+client socket connected
